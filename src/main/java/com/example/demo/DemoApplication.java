@@ -15,6 +15,7 @@ public class DemoApplication {
 
 	@RequestMapping("/")
 	String sayHello() {
+		System.out.println("Hello");
 		// return "Hello World!";
 		return "Hello Azure!";
 	}
