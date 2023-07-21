@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'YamadaWebApp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B6DB8F5AF8DA4AC4AC474501C152A84C }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8E5FD470077D4D979DAEB44BB0E0225B }}
           package: '*.jar'
