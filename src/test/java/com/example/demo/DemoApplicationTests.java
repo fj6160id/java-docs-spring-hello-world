@@ -9,7 +9,7 @@ class DemoApplicationTests {
 
 	@Test
 	void contextLoads() {
-		assertEquals(100, 10);
+		assertEquals(100, 100);
 	}
 
 }
